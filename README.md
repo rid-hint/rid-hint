@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyy 👋
 ### *Ridhin Thomas Alex*
 Electrical & Elctronics Engineer | Student
 * C/C++
