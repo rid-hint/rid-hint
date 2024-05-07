@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+### *Ridhin Thomas Alex*
+Electrical & Elctronics Engineer | Student
+* C/C++
+### Connect With Me!
+* Mail: ridhxnt@gmail.com 
 
 <!--
 **rid-hint/rid-hint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
