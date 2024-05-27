@@ -3,8 +3,8 @@
 Electrical & Elctronics Engineer | Student
 * C/C++
 ### Connect With Me!
-* Mail: ridhxnt@gmail.com 
-
+* Mail: ridhxnt@gmail.com
+* LinkdIn: www.linkedin.com/in/rid-hint
 <!--
 **rid-hint/rid-hint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
